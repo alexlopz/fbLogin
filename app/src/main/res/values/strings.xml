@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Umg</string>
+    <string name="facebook_app_id">829698050533659</string>
+    <string name="fb_login_protocol_scheme">fb829698050533659</string>
+    <string name="cancel_login">Cancelado</string>
+    <string name="error_login">Ocurrio un error</string>
+    <string name="succes_login">Inicio de sesion exitoso :)</string>
+
+</resources>
